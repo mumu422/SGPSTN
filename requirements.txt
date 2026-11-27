@@ -1,0 +1,10 @@
+# SGPSTN 依赖（Python 3.9+，仅训练与评估，无需绘图库）
+numpy==1.23.5
+pandas==2.2.3
+scikit-learn==1.2.2
+scipy==1.10.1
+tensorflow==2.10.0
+tensorflow-probability==0.16.0
+h5py==3.14.0
+protobuf==3.19.6
+pytz==2024.2
